@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/WitBiz/static/css/main.80c47550.chunk.css",
+    "main.js": "/WitBiz/static/js/main.f8c31eaa.chunk.js",
+    "main.js.map": "/WitBiz/static/js/main.f8c31eaa.chunk.js.map",
+    "runtime~main.js": "/WitBiz/static/js/runtime~main.22c79f11.js",
+    "runtime~main.js.map": "/WitBiz/static/js/runtime~main.22c79f11.js.map",
+    "static/js/2.de9c669b.chunk.js": "/WitBiz/static/js/2.de9c669b.chunk.js",
+    "static/js/2.de9c669b.chunk.js.map": "/WitBiz/static/js/2.de9c669b.chunk.js.map",
+    "index.html": "/WitBiz/index.html",
+    "precache-manifest.35fab8f624f27db2dc67164878404ce2.js": "/WitBiz/precache-manifest.35fab8f624f27db2dc67164878404ce2.js",
+    "service-worker.js": "/WitBiz/service-worker.js",
+    "static/css/main.80c47550.chunk.css.map": "/WitBiz/static/css/main.80c47550.chunk.css.map",
+    "static/media/avatar.jpg": "/WitBiz/static/media/avatar.7257a1a9.jpg",
+    "static/media/bg1.jpg": "/WitBiz/static/media/bg1.840650bb.jpg",
+    "static/media/bg11.jpg": "/WitBiz/static/media/bg11.e643a6cf.jpg",
+    "static/media/bg3.jpg": "/WitBiz/static/media/bg3.f807b37b.jpg",
+    "static/media/bg4.jpg": "/WitBiz/static/media/bg4.4bff5d45.jpg",
+    "static/media/bg5.jpg": "/WitBiz/static/media/bg5.056eb058.jpg",
+    "static/media/bg6.jpg": "/WitBiz/static/media/bg6.d7d1aaf7.jpg",
+    "static/media/bg7.jpg": "/WitBiz/static/media/bg7.607a4a36.jpg",
+    "static/media/bg8.jpg": "/WitBiz/static/media/bg8.6737ce3b.jpg",
+    "static/media/eva.jpg": "/WitBiz/static/media/eva.089c4f4e.jpg",
+    "static/media/header.jpg": "/WitBiz/static/media/header.840650bb.jpg",
+    "static/media/julie.jpg": "/WitBiz/static/media/julie.138381e5.jpg",
+    "static/media/landing.jpg": "/WitBiz/static/media/landing.f8fba454.jpg",
+    "static/media/login.jpg": "/WitBiz/static/media/login.b2101951.jpg",
+    "static/media/now-ui-kit.scss": "/WitBiz/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/profile.jpg": "/WitBiz/static/media/profile.225653f9.jpg",
+    "static/media/ryan.jpg": "/WitBiz/static/media/ryan.f217f346.jpg"
+  }
+}
